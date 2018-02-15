@@ -33,9 +33,10 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1"
   },
-  "author": "HEBER-GUTIERREZ",
+  "author": "hebergutierrez",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/HeberGutierrez/mvp-heber-gutierrez/issues"
   },
-"homepage": "https://github.com/HeberGutierrez/mvp-heber-gutierrez#readme"
+  "homepage": "https://github.com/HeberGutierrez/mvp-heber-gutierrez#readme"
+}
