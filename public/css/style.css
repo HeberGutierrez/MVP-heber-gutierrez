@@ -3,6 +3,9 @@ body {
 }
 
 h1 {
-  color: yellow;
-  background-color: lightblue;
+  text-align: center;
+}
+
+#b-container {
+ align-content: center;
 }
